@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @load-a
+- 👋 Hi, I’m Load A
 - 👀 I’m interested in Ruby, Assembly, UX, low-level languages and game/software design.
 - 🌱 I’m currently learning Nand to Tetris, Fundementals of Software Engineering.
 - 💞️ I’m looking to collaborate on anything!
